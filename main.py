@@ -1,6 +1,6 @@
 from utils import content, generator, fakeNews, training, visualiz
 from torch import nn
-import nn
+import torch
 
 """Датасет который я использовал: 
    https://drive.google.com/uc?id=178f_VkNxccNidap-5-uffXUW475pAuPy&confirm=t"""
